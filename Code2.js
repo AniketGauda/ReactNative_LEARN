@@ -1,3 +1,5 @@
+// Introduction to frequently used Core Components.
+
 import React, { useState } from 'react';
 import { View, Text, Image, ScrollView, TextInput, StyleSheet } from 'react-native';
 
